@@ -1,4 +1,4 @@
-###Getting Started###
+### Getting Started
 Checkout this repo, install dependencies, then start the development server with the following on port 8080:
 
 ```
